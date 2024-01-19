@@ -13,6 +13,7 @@
         <module>maven-conflict</module>
         <module>maven-middleware</module>
         <module>maven-middlewaree</module>
+        <module>maven-inherit</module>
         <module>maven-conflict-use</module>
     </modules>
 
